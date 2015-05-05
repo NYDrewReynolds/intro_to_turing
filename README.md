@@ -2,16 +2,20 @@
 
 ##What we'll be doing today:
 
-1.Command line introduction:
+1. Command line introduction:
   * making directories and files.
   * Basic navigation.
   * Using irb.
 
-2.Best practices and workflow efficiencies
+2. Best practices and workflow efficiencies
 
-3.Advice and suggestions for Module 1
+3. Learning the Turing lingo:
+  * Cohorts, Modules, Posses, Lightning Talks, Code Retreats, Electives.
+  * What is 1505?.
 
-4.General Q&A
+4. Advice and suggestions for Module 1
+
+5. General Q&A
 
 ##Command line introduction:
 Why use the command line/terminal?
