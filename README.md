@@ -55,3 +55,5 @@ How to navigate with the terminal.
 7. You’re a family. Help each other. You are only as strong as your weakest teammate (especially when you get paired with them to complete a project.)
 8. Ask instructors to record their lectures so you can review it later
 9. Attend the Meet-Ups
+
+**Adapted from Andrew Carmer's ['Intro to Turing'](https://github.com/carmer/intro_to_turing).
