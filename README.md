@@ -1,4 +1,4 @@
-#Intro to Turing - Welcome to Turing 1505!!!
+#Intro to Turing - Welcome to Turing 1505!
 
 ##What we'll be doing today:
 
