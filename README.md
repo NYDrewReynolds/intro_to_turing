@@ -11,7 +11,7 @@
 
 3. Learning the Turing lingo:
   * Cohorts, Modules, Posses, Lightning Talks, Code Retreats, Electives.
-  * What is 1505?.
+  * What does 1505 mean?
 
 4. Advice and suggestions for Module 1
 
