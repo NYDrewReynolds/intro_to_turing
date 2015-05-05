@@ -56,4 +56,4 @@ How to navigate with the terminal.
 8. Ask instructors to record their lectures so you can review it later
 9. Attend the Meet-Ups
 
-**Adapted from Andrew Carmer's ['Intro to Turing'](https://github.com/carmer/intro_to_turing).
+#####Adapted from Andrew Carmer's ['Intro to Turing'](https://github.com/carmer/intro_to_turing).
