@@ -3,11 +3,13 @@
 ##What we'll be doing today:
 
 1. Command line introduction:
-  * making directories and files.
-  * Basic navigation.
-  * Using irb.
+ * making directories and files.
+ * Basic navigation.
+ * Using irb.
 
 2. Best practices and workflow efficiencies
+ * Do assignments early so you can go back and improve.
+ * Ex. Pragmatic Studios
 
 3. Learning the Turing lingo:
  * Cohorts, Modules, Posses, Lightning Talks, Code Retreats, Electives.
@@ -28,9 +30,9 @@ How to navigate with the terminal.
 * Learn shortcuts and quick-keys
 * Learn to use your machine without a mouse
 * Find and use applications that improve workflow.
-  1. Divvy / Spectacle
-  2. Pomodoro one / or any Pomodoro timer
-  3. Ruby Docs / Dash / StackOverflow
+ 1. Divvy / Spectacle
+ 2. Pomodoro one / or any Pomodoro timer
+ 3. Ruby Docs / Dash / StackOverflow
 
 ####Mac Key Symbols:
 
@@ -43,11 +45,11 @@ How to navigate with the terminal.
 * Go to every class **every day**
 * Participate in class - ask questions. Even "stupid" questions are good questions.
 * The Imposter Syndrome - YOU **DO** BELONG HERE!
-  1. http://en.wikipedia.org/wiki/Impostor_syndrome
-  2. https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5
+ 1. http://en.wikipedia.org/wiki/Impostor_syndrome
+ 2. https://medium.com/@aliciatweet/overcoming-impostor-syndrome-bdae04e46ec5
 * Practice your typing skills
-  * typing.io (free)
-  * typfu (pay)
+ * typing.io (free)
+ * typfu (pay)
 
 
 #####From Lori Culberson:
