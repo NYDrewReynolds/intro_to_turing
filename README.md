@@ -10,10 +10,11 @@
 2. Best practices and workflow efficiencies
 
 3. Learning the Turing lingo:
-  * Cohorts, Modules, Posses, Lightning Talks, Code Retreats, Electives.
-  * What does 1505 mean?
+ * Cohorts, Modules, Posses, Lightning Talks, Code Retreats, Electives.
+ * What does 1505 mean?
 
 4. Advice and suggestions for Module 1
+ 
 
 5. General Q&A
 
