@@ -9,6 +9,7 @@
 
 2. Best practices and workflow efficiencies
  * Do assignments early so you can go back and improve.
+ * Exercism
  * Ex. Pragmatic Studios
 
 3. Learning the Turing lingo:
